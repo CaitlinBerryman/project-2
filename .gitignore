@@ -1,7 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+templates/
 *.py[cod]
 *$py.class
+config.js
+config.py
+script.ipynb
+scriptCopy.ipynb
 
 # C extensions
 *.so
